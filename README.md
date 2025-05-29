@@ -12,7 +12,6 @@ About myself
 <body>
     <div class="main">
         <h2>Rasmli 1 Qatorli Jadval</h2>
-
     <table>
         <tr>
             <td>

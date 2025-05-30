@@ -1,8 +1,8 @@
 # yodgorbek
 About myself
 
-My full name is Yodgorbek Boltayev
-I am from Uzbekistan
+My full name is Yodgorbek Boltayev <br>
+I am from Uzbekistan <br>
 I'm 17 years old
 
 

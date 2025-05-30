@@ -5,14 +5,13 @@ My full name is Yodgorbek Boltayev
 I am from Uzbekistan
 I'm 17 years old
 
-
+# My Skills
 <!DOCTYPE html>
 <html lang="uz">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Texnologiyalarim</title>
-  <style>
+<!--   <style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f4f4;
@@ -29,7 +28,7 @@ I'm 17 years old
       flex-wrap: wrap;
       gap: 20px;
     }
-  </style>
+  </style> -->
 </head>
 <body>
 

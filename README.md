@@ -32,7 +32,7 @@ I'm 17 years old
 </head>
 <body>
 
-  <h1>💻 My Skills/h1>
+  <h1>💻 My Skills /h1>
 
   <div class="badges">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">

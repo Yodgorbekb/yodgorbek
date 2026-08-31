@@ -1,67 +1,88 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpYmZ3ZzR4eG92Yzh6eG92Yzh6eG92Yzh6eG92Yzh6eG92Yzh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw6076DX3EB77zH06L/giphy.gif" width="35"> Salom! Men Yodgorbek Boltayev
+<h1 align="center">Hi 👋, I'm Yodgorbek Boltayev</h1>
+<h3 align="center">Backend Developer | Python & Django Engineer | Indie Game Dev</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20%26%20Game%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Backend%20%26%20Game%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-## ⚡ Men haqimda
-- 🎓 **11-sinf o'quvchisi** va bo'lajak dasturiy ta'minot muhandisi.
-- 🐍 **Python ishqibozi**: Telegram botlar va murakkab backend tizimlar yarataman.
-- 🎮 **Indie GameDev**: Ursina va Godot dvigatellarida horror janridagi loyihalar ustida ishlayman.
-- 📈 **Trader**: Bozorlarni texnik tahlil qilish va "Sniper" strategiyasi bo'yicha ishlashga qiziqaman.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yodgorbekb&color=blueviolet&style=flat" alt="profile views" />
+  <a href="https://t.me/Yodgorbekb"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠 Texnologiyalar Steki
+### ⚡ About Me
 
-### 🚀 Backend & Web Development
+- 🚀 Backend developer specializing in **Python, Django & FastAPI**
+- 🏗️ Building and shipping real-world products: CRMs, REST APIs, Telegram bots
+- 🎮 Indie game developer — working on horror-genre projects in **Godot** and **Ursina Engine**
+- 📈 Exploring algorithmic trading & technical market analysis
+- 🌱 Currently deepening my skills in **DRF, system design, and API monetization**
+- 💬 Ask me about Django, FastAPI, or Telegram bot development
+
+---
+
+### 🛠 Tech Stack
+
+**Backend & Web**
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge" />
 </p>
 
-### 💾 Ma'lumotlar bazasi
+**Databases**
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🎮 Game Development & Libraries
+**Game Dev & Libraries**
 <p align="left">
-<img src="https://img.shields.io/badge/Ursina_Engine-FF3333?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=telegram" />
-<img src="https://img.shields.io/badge/yt--dlp-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ursina_Engine-FF3333?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge" />
 </p>
 
----
-
-## 📊 Mening GitHub Faoliyatim
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yodgorbekb&show_icons=true&theme=vision-friendly-dark&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yodgorbekb&layout=compact&theme=vision-friendly-dark" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yodgorbekb&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
----
-
-## 🏗 Hozirgi Loyihalarim
-- 🌑 **Ursina Horror Game**: Atmosferik horror o'yini (Checkpoint va Anomaliya tizimi bilan).
-- 🤖 **Professional Downloader Bot**: `yt-dlp` va `aiogram` yordamida har qanday mediani yuklovchi bot.
-- 📊 **Trading Journal**: O'z savdolarimni tahlil qilish uchun kichik yordamchi dasturlar.
-
----
-
-## 📫 Men bilan bog'lanish:
+**Tools & Platforms**
 <p align="left">
-<a href="https://t.me/Yodgorbekb" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://github.com/Yodgorbekb" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<p align="right"><i>Oxirgi yangilanish: 2026-yil Aprel</i></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yodgorbekb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yodgorbekb&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yodgorbekb&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏗 Featured Projects
+
+- 🎓 **Educational Center CRM** — Full-featured Django platform with role-based dashboards (Admin/Teacher/Student), attendance & payment tracking, and a companion Android app.
+- 🎵 **Audio Extractor API** — FastAPI-based service deployed on Render, monetized via RapidAPI.
+- 🌑 **Horror Game (Godot/Ursina)** — Atmospheric horror game featuring a checkpoint and anomaly system.
+- 🤖 **Media Downloader Bot** — Telegram bot built with `aiogram` and `yt-dlp` for downloading media from multiple platforms.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://t.me/Yodgorbekb" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/Yodgorbekb" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Last updated: August 2026</i></p>
